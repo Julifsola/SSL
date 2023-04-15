@@ -1,2 +1,6 @@
-# SSL
-Repositorio utilizado para la entrega de trabajos práctico para la materia SSL - UTN FRBA
+# Sintaxis y semántica de los Lenguajes
+### Curso: K2055
+### Año: 2023
+### Legajo: 172.877-5
+### Apellido: Solá
+### Nombre: Julián
