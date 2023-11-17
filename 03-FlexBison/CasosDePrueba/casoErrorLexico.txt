@@ -1,0 +1,3 @@
+inicio
+    _a1:=1;
+fin
